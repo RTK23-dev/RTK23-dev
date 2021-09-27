@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **a lot of things!**
+- 🌱 I’m currently learning **a lot of things**
 
-- 💬 Ask me about **anything you want to!**
+- 💬 Ask me about **anything you want to**
 
 - 📫 How to reach me **recivetest3@gmail.com**
 
