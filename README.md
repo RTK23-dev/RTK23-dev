@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hey, I'm RTK
@@ -182,4 +181,3 @@ RTK@github:~$ _
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-```
