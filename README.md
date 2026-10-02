@@ -1,10 +1,32 @@
-<h1 align="center">Hello, I am RTK</h1>
-<h3 align="center">Github Stats</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rtk23-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rtk23-dev" /> </p> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=180&section=header&text=RTK&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Building%20things%20that%20live%20on%20servers.&descAlignY=58&descSize=18" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtk23-dev&show_icons=true&locale=en&layout=compact" alt="rtk23-dev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtk23-dev&" alt="rtk23-dev" /></p>  
+# `RTK`
 
+### Student Developer · Backend · Linux · Self-Hosting
 
+<p>
+  <a href="https://github.com/RTK23-dev">
+    <img src="https://komarev.com/ghpvc/?username=RTK23-dev&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://github.com/RTK23-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/RTK23-dev?style=for-the-badge&logo=github&label=FOLLOWERS" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+RTK@github:~$ cat about.txt
+
+> student developer
+> interested in backend engineering & system administration
+> building tools, server infrastructure & web projects
+> learning by breaking things and rebuilding them better
+
+RTK@github:~$ _
