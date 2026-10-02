@@ -5,9 +5,6 @@
 ### `Student Developer` · `Backend` · `Linux` · `Self-Hosting`
 
 <p>
-  <a href="https://github.com/RTK23-dev">
-    <img src="https://komarev.com/ghpvc/?username=RTK23-dev&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/RTK23-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/RTK23-dev?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
   </a>
@@ -102,43 +99,12 @@ RTK@github:~$ _
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RTK23-dev&bg_color=0d1117&color=ffffff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=RTK%27s%20Contribution%20Graph" alt="Contribution Activity Graph"/>
-
-</div>
-
----
 
 # 🐍 GitHub Contributions
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🧰 Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/RTK23-dev/pterodactyl-work">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RTK23-dev&repo=pterodactyl-work&theme=github_dark&hide_border=true" alt="Pterodactyl Work"/>
-</a>
-
-<a href="https://github.com/RTK23-dev/docker-images">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RTK23-dev&repo=docker-images&theme=github_dark&hide_border=true" alt="Docker Images"/>
-</a>
-
-<a href="https://github.com/RTK23-dev/Ptero-vm">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RTK23-dev&repo=Ptero-vm&theme=github_dark&hide_border=true" alt="Ptero VM"/>
-</a>
 
 </div>
 
